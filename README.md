@@ -1,2 +1,1 @@
-# lthwbof
-Learn the Hardway - Buffer Overflow
+# Learn the Hardway - Buffer Overflow
